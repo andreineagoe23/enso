@@ -78,13 +78,13 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      value: "+44 20 7946 0958",
-      href: "tel:+442079460958",
+      value: "+44 7543 519824",
+      href: "tel:+447543519824",
     },
     {
       icon: MapPin,
       title: "Location",
-      value: "London, UK",
+      value: "Chigwell, Essex, UK",
       href: "#",
     },
   ];

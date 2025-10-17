@@ -27,8 +27,16 @@ const Footer = () => {
       { name: "Maintenance", href: "#services" },
     ],
     social: [
-      { name: "GitHub", icon: Github, href: "https://github.com" },
-      { name: "LinkedIn", icon: Linkedin, href: "https://linkedin.com" },
+      {
+        name: "GitHub",
+        icon: Github,
+        href: "https://github.com/andreineagoe23",
+      },
+      {
+        name: "LinkedIn",
+        icon: Linkedin,
+        href: "https://linkedin.com/in/andrei-neagoe-29a937256",
+      },
       { name: "Email", icon: Mail, href: "mailto:hello@ensodigital.com" },
     ],
   };
@@ -133,8 +141,8 @@ const Footer = () => {
               <h4 className="text-lg font-semibold text-white">Contact</h4>
               <div className="space-y-3 text-gray-300">
                 <p>hello@ensodigital.com</p>
-                <p>+44 20 7946 0958</p>
-                <p>London, UK</p>
+                <p>+44 7543 519824</p>
+                <p>Chigwell, Essex, UK</p>
               </div>
             </motion.div>
           </div>
